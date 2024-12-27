@@ -85,7 +85,7 @@ export default function Home() {
       <div className="container mx-auto flex justify-between items-center p-4">
         {/* Logo */}
         <div>
-          <Image src="/logo.png" height={1000} width={130} priority />
+          <Image alt='logo1' src="/logo.png" height={1000} width={130} priority />
         </div>
 
         {/* Navigation */}
